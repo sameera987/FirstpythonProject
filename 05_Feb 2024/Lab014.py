@@ -18,3 +18,4 @@ dir2 = "C:\axyz\axyz"
 print(dir)
 
 #raw string concept. This will be helpful in the directory path
+print("Test")
